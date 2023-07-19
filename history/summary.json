@@ -743,19 +743,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/holiday-lescala.com.ico",
     "slug": "le-coq-de",
     "status": "up",
-    "uptime": "5.66%",
-    "uptimeDay": "5.66%",
-    "uptimeWeek": "5.66%",
-    "uptimeMonth": "5.66%",
-    "uptimeYear": "5.66%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 408,
     "timeDay": 408,
     "timeWeek": 408,
     "timeMonth": 408,
     "timeYear": 408,
-    "dailyMinutesDown": {
-      "2023-07-19": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Le Coq 🇬🇧 (en)",
