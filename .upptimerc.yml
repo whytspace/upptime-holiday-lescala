@@ -6,256 +6,256 @@ sites:
   - name: Übersicht 🇩🇪
     url: https://holiday-lescala.com/haeuser/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
     
   - name: Übersicht 🇬🇧
     url: https://holiday-lescala.com/en/homes/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
   - name: Übersicht 🇫🇷
     url: https://holiday-lescala.com/fr/maisons/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
   - name: Übersicht 🇪🇸
     url: https://holiday-lescala.com/es/casas/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
 
 
   - name: Bianya 🇩🇪
     url: https://holiday-lescala.com/h/haus-bianya/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
  
   - name: Bianya 🇬🇧
     url: https://holiday-lescala.com/en/h/house-bianya/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
          
   - name: Bianya 🇫🇷
     url: https://holiday-lescala.com/fr/h/maison-bianya/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
      
   - name: Bianya 🇪🇸
     url: https://holiday-lescala.com/es/h/casa-bianya/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
 
 
   - name: Girasol 🇩🇪
     url: https://holiday-lescala.com/h/haus-girasol/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
   - name: Girasol 🇬🇧
     url: https://holiday-lescala.com/en/h/house-girasol/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
   - name: Girasol 🇫🇷
     url: https://holiday-lescala.com/fr/h/maison-girasol/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
   - name: Girasol 🇪🇸
     url: https://holiday-lescala.com/es/h/casa-girasol/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
 
 
   - name: Olives 🇩🇪
     url: https://holiday-lescala.com/h/haus-olives/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
   - name: Olives 🇬🇧
     url: https://holiday-lescala.com/en/h/house-olives/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
     
   - name: Olives 🇫🇷
     url: https://holiday-lescala.com/fr/h/maison-olives/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
     
   - name: Olives 🇪🇸
     url: https://holiday-lescala.com/es/h/casa-olives/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
 
 
   - name: Francoli 🇩🇪
     url: https://holiday-lescala.com/h/haus-francoli/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
   - name: Francoli 🇬🇧
     url: https://holiday-lescala.com/en/h/house-francoli/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
     
   - name: Francoli 🇫🇷
     url: https://holiday-lescala.com/fr/h/maison-francoli/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
     
   - name: Francoli 🇪🇸
     url: https://holiday-lescala.com/es/h/casa-francoli/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
 
 
   - name: Terany 🇩🇪
     url: https://holiday-lescala.com/h/haus-terany/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
     
   - name: Terany 🇬🇧
     url: https://holiday-lescala.com/en/h/house-terany/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
   - name: Terany 🇫🇷
     url: https://holiday-lescala.com/fr/h/maison-terany/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
     
   - name: Terany 🇪🇸
     url: https://holiday-lescala.com/es/h/casa-terany/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
 
 
   - name: Roca 🇩🇪
     url: https://holiday-lescala.com/h/haus-roca/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
   - name: Roca 🇬🇧
     url: https://holiday-lescala.com/en/h/house-roca/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
     
   - name: Roca 🇫🇷
     url: https://holiday-lescala.com/fr/h/maison-roca/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
     
   - name: Roca 🇪🇸
     url: https://holiday-lescala.com/es/h/casa-roca/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
 
 
   - name: Ancora 🇩🇪
     url: https://holiday-lescala.com/h/haus-ancora/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
   - name: Ancora 🇬🇧
     url: https://holiday-lescala.com/en/h/house-ancora/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
     
   - name: Ancora 🇫🇷
     url: https://holiday-lescala.com/fr/h/maison-ancora/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
     
   - name: Ancora 🇪🇸
     url: https://holiday-lescala.com/es/h/casa-ancora/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
 
 
-  - name: Can Llop 🇩🇪
+  - name: Haus-Llop 🇩🇪
     url: https://holiday-lescala.com/h/haus-can-llop/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
 
 
   - name: El Gall 🇩🇪
     url: https://holiday-lescala.com/h/haus-el-gall/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
     
   - name: El Gall 🇬🇧
     url: https://holiday-lescala.com/en/h/house-el-gall/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
     
   - name: El Gall 🇫🇷
     url: https://holiday-lescala.com/fr/h/maison-el-gall/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
     
   - name: El Gall 🇪🇸
     url: https://holiday-lescala.com/es/h/casa-el-gall/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
 
 
   - name: Medinya 🇩🇪
     url: https://holiday-lescala.com/h/haus-medinya/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
     
   - name: Medinya 🇬🇧
     url: https://holiday-lescala.com/en/h/house-medinya/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"    
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"    
     
   - name: Medinya 🇫🇷
     url: https://holiday-lescala.com/fr/h/maison-medinya/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
     
   - name: Medinya 🇪🇸
     url: https://holiday-lescala.com/es/h/casa-medinya/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
 
 
   - name: Le Coq 🇩🇪
     url: https://holiday-lescala.com/h/haus-le-coq/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
     
   - name: Le Coq 🇬🇧
     url: https://holiday-lescala.com/en/h/house-le-coq/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"    
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"    
     
   - name: Le Coq 🇫🇷
     url: https://holiday-lescala.com/fr/h/maison-le-coq/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
     
   - name: Le Coq 🇪🇸
     url: https://holiday-lescala.com/es/h/casa-le-coq/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
 
 
   - name: Dorna 🇩🇪
     url: https://holiday-lescala.com/h/haus-dorna/
     method: GET
-    __dangerous__body_degraded_if_text_missing: "https://www.webplanner.de/tools/?"
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
     
 status-website:
