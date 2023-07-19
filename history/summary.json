@@ -743,18 +743,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/holiday-lescala.com.ico",
     "slug": "le-coq-de",
     "status": "down",
-    "uptime": "7.87%",
-    "uptimeDay": "7.87%",
-    "uptimeWeek": "7.87%",
-    "uptimeMonth": "7.87%",
-    "uptimeYear": "7.87%",
+    "uptime": "3.29%",
+    "uptimeDay": "3.29%",
+    "uptimeWeek": "3.29%",
+    "uptimeMonth": "3.29%",
+    "uptimeYear": "3.29%",
     "time": 484,
     "timeDay": 484,
     "timeWeek": 484,
     "timeMonth": 484,
     "timeYear": 484,
     "dailyMinutesDown": {
-      "2023-07-19": 0
+      "2023-07-19": 1
     }
   },
   {
