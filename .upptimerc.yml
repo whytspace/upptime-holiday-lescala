@@ -273,9 +273,5 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-workflowSchedule:
-  # checking every 30 minutes should be fine
-  uptime: "*/30 * * * *"
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
