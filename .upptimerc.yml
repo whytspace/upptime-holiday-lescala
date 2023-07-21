@@ -256,6 +256,22 @@ sites:
     url: https://holiday-lescala.com/h/haus-dorna/
     method: GET
     __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
+    
+  - name: Dorna 🇬🇧 (en)
+    url: https://holiday-lescala.com/en/h/house-dorna/
+    method: GET
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"    
+    
+  - name: Dorna 🇫🇷 (fr)
+    url: https://holiday-lescala.com/fr/h/maison-dorna/
+    method: GET
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
+    
+  - name: Dorna 🇪🇸 (es)
+    url: https://holiday-lescala.com/es/h/casa-dorna/
+    method: GET
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
+
 
     
 status-website:
