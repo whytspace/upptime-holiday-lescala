@@ -298,9 +298,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime-holiday-lescala
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Uptime Tracking for Holiday L'Escala
-  introTitle: "Monitoring Websites via **Upptime**, the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Status page for Holiday L'Escala, using **real-time** data from the [GitHub repository](https://github.com/whytspace/upptime-holiday-lescala)
+  name: Uptime Monitoring for Holiday L'Escala
+  introTitle: "Status page for [Holiday L'Escala](https://holiday-lescala.com)"
+  introMessage: This page uses **real-time** data from the [GitHub repository](https://github.com/whytspace/upptime-holiday-lescala)
   navbar:
     - title: Status
       href: /
