@@ -71,10 +71,10 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://whytspace.github.io/upptime)
+[**Visit our status website →**](https://whytspace.github.io/upptime-holiday-lescala/)
 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [David H.](https://whytspace.github.io/upptime)
+- Code: [MIT](./LICENSE) © [David H.](https://whytspace.github.io/upptime-holiday-lescala)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
