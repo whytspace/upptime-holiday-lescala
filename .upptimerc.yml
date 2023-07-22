@@ -179,8 +179,23 @@ sites:
 
 
 
-  - name: Haus-Llop 🇩🇪 (de)
+  - name: Can Llop 🇩🇪 (de)
     url: https://holiday-lescala.com/h/haus-can-llop/
+    method: GET
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
+    
+  - name: Can Llop 🇬🇧 (en)
+    url: https://holiday-lescala.com/en/h/house-can-llop/
+    method: GET
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
+    
+  - name: Can Llop 🇫🇷 (fr)
+    url: https://holiday-lescala.com/fr/h/maison-can-llop/
+    method: GET
+    __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
+    
+  - name: Can Llop 🇪🇸 (es)
+    url: https://holiday-lescala.com/es/h/casa-can-llop/
     method: GET
     __dangerous__body_down_if_text_missing: "https://www.webplanner.de/tools/?"
 
