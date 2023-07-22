@@ -1,6 +1,6 @@
 # Change these first
 owner: whytspace
-repo: upptime
+repo: upptime-holiday-lescala
 
 assignees:
   - whytspace
@@ -296,11 +296,11 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /upptime
+  baseUrl: /upptime-holiday-lescala
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Whytspace's Upptime
+  name: Uptime Tracking for Holiday L'Escala
   introTitle: "Monitoring Websites via **Upptime**, the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from the [GitHub repository](https://github.com/whytspace/upptime)
+  introMessage: Status page for Holiday L'Escala, using **real-time** data from the [GitHub repository](https://github.com/whytspace/upptime-holiday-lescala)
   navbar:
     - title: Status
       href: /
