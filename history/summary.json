@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/holiday-lescala.com.ico",
     "slug": "uebersicht-de",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1179,
     "timeDay": 1198,
     "timeWeek": 1197,
     "timeMonth": 1221,
     "timeYear": 1179,
-    "dailyMinutesDown": {
-      "2023-09-07": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Übersicht 🇬🇧 (en)",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/holiday-lescala.com.ico",
     "slug": "uebersicht-en",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 454,
     "timeDay": 662,
     "timeWeek": 490,
     "timeMonth": 462,
     "timeYear": 454,
-    "dailyMinutesDown": {
-      "2023-09-07": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Übersicht 🇫🇷 (fr)",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/holiday-lescala.com.ico",
     "slug": "uebersicht-fr",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 440,
     "timeDay": 655,
     "timeWeek": 484,
     "timeMonth": 454,
     "timeYear": 440,
-    "dailyMinutesDown": {
-      "2023-09-07": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Übersicht 🇪🇸 (es)",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/holiday-lescala.com.ico",
     "slug": "uebersicht-es",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 438,
     "timeDay": 655,
     "timeWeek": 482,
     "timeMonth": 454,
     "timeYear": 438,
-    "dailyMinutesDown": {
-      "2023-09-07": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bianya 🇩🇪 (de)",
