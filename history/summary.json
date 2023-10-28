@@ -4,19 +4,19 @@
     "url": "https://holiday-lescala.com/haeuser/",
     "icon": "https://icons.duckduckgo.com/ip3/holiday-lescala.com.ico",
     "slug": "uebersicht-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "92.49%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "91.99%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "99.89%",
-    "time": 1196,
-    "timeDay": 991,
-    "timeWeek": 1131,
-    "timeMonth": 1197,
-    "timeYear": 1196,
+    "time": 1197,
+    "timeDay": 1057,
+    "timeWeek": 1148,
+    "timeMonth": 1202,
+    "timeYear": 1197,
     "dailyMinutesDown": {
-      "2023-10-28": 108,
+      "2023-10-28": 115,
       "2023-10-24": 17,
       "2023-10-11": 16,
       "2023-09-25": 16
@@ -390,9 +390,9 @@
     "slug": "francoli-fr",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "87.99%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "87.45%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.88%",
     "time": 454,
     "timeDay": 723,
@@ -400,7 +400,7 @@
     "timeMonth": 500,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2023-10-28": 174
+      "2023-10-28": 182
     }
   },
   {
@@ -410,9 +410,9 @@
     "slug": "francoli-es",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "88.13%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "87.58%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.88%",
     "time": 428,
     "timeDay": 759,
@@ -420,7 +420,7 @@
     "timeMonth": 486,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2023-10-28": 170
+      "2023-10-28": 178
     }
   },
   {
@@ -430,9 +430,9 @@
     "slug": "terany-de",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "88.26%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "87.72%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.88%",
     "time": 332,
     "timeDay": 724,
@@ -440,7 +440,7 @@
     "timeMonth": 379,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2023-10-28": 170
+      "2023-10-28": 178
     }
   },
   {
@@ -449,18 +449,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/holiday-lescala.com.ico",
     "slug": "terany-en",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "88.40%",
-    "uptimeWeek": "98.34%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.88%",
+    "uptimeDay": "87.86%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.88%",
     "time": 363,
     "timeDay": 724,
     "timeWeek": 538,
     "timeMonth": 443,
     "timeYear": 363,
     "dailyMinutesDown": {
-      "2023-10-28": 166
+      "2023-10-28": 174
     }
   },
   {
@@ -469,18 +469,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/holiday-lescala.com.ico",
     "slug": "terany-fr",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "88.54%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.88%",
+    "uptimeDay": "88.00%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.88%",
     "time": 398,
     "timeDay": 701,
     "timeWeek": 552,
     "timeMonth": 457,
     "timeYear": 398,
     "dailyMinutesDown": {
-      "2023-10-28": 166
+      "2023-10-28": 174
     }
   },
   {
@@ -489,18 +489,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/holiday-lescala.com.ico",
     "slug": "terany-es",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "88.68%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.88%",
+    "uptimeDay": "88.14%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.88%",
     "time": 345,
     "timeDay": 701,
     "timeWeek": 538,
     "timeMonth": 400,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2023-10-28": 162
+      "2023-10-28": 170
     }
   },
   {
@@ -509,18 +509,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/holiday-lescala.com.ico",
     "slug": "roca-de",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "88.82%",
-    "uptimeWeek": "98.40%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.88%",
+    "uptimeDay": "88.28%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.88%",
     "time": 448,
     "timeDay": 728,
     "timeWeek": 564,
     "timeMonth": 486,
     "timeYear": 448,
     "dailyMinutesDown": {
-      "2023-10-28": 162
+      "2023-10-28": 170
     }
   },
   {
@@ -530,9 +530,9 @@
     "slug": "roca-en",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "88.96%",
-    "uptimeWeek": "98.42%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "88.41%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.89%",
     "time": 430,
     "timeDay": 708,
@@ -540,7 +540,7 @@
     "timeMonth": 483,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2023-10-28": 158
+      "2023-10-28": 166
     }
   },
   {
@@ -550,9 +550,9 @@
     "slug": "roca-fr",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "89.10%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "88.55%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.89%",
     "time": 448,
     "timeDay": 702,
@@ -560,7 +560,7 @@
     "timeMonth": 483,
     "timeYear": 448,
     "dailyMinutesDown": {
-      "2023-10-28": 158
+      "2023-10-28": 166
     }
   },
   {
@@ -570,9 +570,9 @@
     "slug": "roca-es",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "89.23%",
-    "uptimeWeek": "98.46%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "88.69%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.89%",
     "time": 409,
     "timeDay": 727,
@@ -580,7 +580,7 @@
     "timeMonth": 471,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2023-10-28": 154
+      "2023-10-28": 162
     }
   },
   {
@@ -600,7 +600,7 @@
     "timeMonth": 954,
     "timeYear": 566,
     "dailyMinutesDown": {
-      "2023-10-28": 932,
+      "2023-10-28": 940,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
@@ -644,18 +644,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/holiday-lescala.com.ico",
     "slug": "ancora-en",
     "status": "down",
-    "uptime": "67.98%",
+    "uptime": "67.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "67.98%",
+    "uptimeYear": "67.97%",
     "time": 528,
     "timeDay": 814,
     "timeWeek": 940,
     "timeMonth": 984,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2023-10-28": 932,
+      "2023-10-28": 940,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
@@ -696,18 +696,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/holiday-lescala.com.ico",
     "slug": "ancora-fr",
     "status": "down",
-    "uptime": "67.98%",
+    "uptime": "67.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "67.98%",
+    "uptimeYear": "67.97%",
     "time": 591,
     "timeDay": 828,
     "timeWeek": 929,
     "timeMonth": 995,
     "timeYear": 591,
     "dailyMinutesDown": {
-      "2023-10-28": 932,
+      "2023-10-28": 940,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
@@ -748,18 +748,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/holiday-lescala.com.ico",
     "slug": "ancora-es",
     "status": "down",
-    "uptime": "67.98%",
+    "uptime": "67.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "67.98%",
+    "uptimeYear": "67.97%",
     "time": 531,
     "timeDay": 932,
     "timeWeek": 955,
     "timeMonth": 994,
     "timeYear": 531,
     "dailyMinutesDown": {
-      "2023-10-28": 932,
+      "2023-10-28": 940,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
@@ -800,18 +800,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/holiday-lescala.com.ico",
     "slug": "can-llop-de",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "89.89%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.89%",
+    "uptimeDay": "89.35%",
+    "uptimeWeek": "98.48%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.89%",
     "time": 373,
     "timeDay": 291,
     "timeWeek": 368,
     "timeMonth": 426,
     "timeYear": 373,
     "dailyMinutesDown": {
-      "2023-10-28": 146
+      "2023-10-28": 154
     }
   },
   {
@@ -820,18 +820,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/holiday-lescala.com.ico",
     "slug": "can-llop-en",
     "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "90.03%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.84%",
+    "uptimeDay": "89.49%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.84%",
     "time": 391,
     "timeDay": 703,
     "timeWeek": 540,
     "timeMonth": 480,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2023-10-28": 143,
+      "2023-10-28": 151,
       "2023-07-22": 71
     }
   },
@@ -841,18 +841,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/holiday-lescala.com.ico",
     "slug": "can-llop-fr",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "86.59%",
-    "uptimeWeek": "98.08%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.81%",
+    "uptimeDay": "86.05%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.81%",
     "time": 430,
     "timeDay": 699,
     "timeWeek": 538,
     "timeMonth": 475,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2023-10-28": 194,
+      "2023-10-28": 201,
       "2023-07-22": 63
     }
   },
@@ -863,9 +863,9 @@
     "slug": "can-llop-es",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "86.73%",
-    "uptimeWeek": "98.10%",
-    "uptimeMonth": "99.56%",
+    "uptimeDay": "86.19%",
+    "uptimeWeek": "98.03%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.82%",
     "time": 380,
     "timeDay": 700,
@@ -873,7 +873,7 @@
     "timeMonth": 474,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2023-10-28": 190,
+      "2023-10-28": 198,
       "2023-07-22": 63
     }
   },
@@ -883,18 +883,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/holiday-lescala.com.ico",
     "slug": "el-gall-de",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "87.91%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.87%",
+    "uptimeDay": "87.37%",
+    "uptimeWeek": "98.20%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.87%",
     "time": 450,
     "timeDay": 704,
     "timeWeek": 554,
     "timeMonth": 482,
     "timeYear": 450,
     "dailyMinutesDown": {
-      "2023-10-28": 175
+      "2023-10-28": 182
     }
   },
   {
@@ -904,9 +904,9 @@
     "slug": "el-gall-en",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "88.02%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "87.47%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.88%",
     "time": 405,
     "timeDay": 703,
@@ -914,7 +914,7 @@
     "timeMonth": 482,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2023-10-28": 172
+      "2023-10-28": 180
     }
   },
   {
@@ -924,9 +924,9 @@
     "slug": "el-gall-fr",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "88.12%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "87.57%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.88%",
     "time": 432,
     "timeDay": 776,
@@ -934,7 +934,7 @@
     "timeMonth": 488,
     "timeYear": 432,
     "dailyMinutesDown": {
-      "2023-10-28": 172
+      "2023-10-28": 179
     }
   },
   {
@@ -944,9 +944,9 @@
     "slug": "el-gall-es",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "88.22%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "87.68%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.88%",
     "time": 368,
     "timeDay": 737,
@@ -954,7 +954,7 @@
     "timeMonth": 450,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2023-10-28": 169
+      "2023-10-28": 177
     }
   },
   {
