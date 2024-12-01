@@ -299,19 +299,19 @@
     "url": "https://holiday-lescala.com/es/h/casa-girasol/",
     "icon": "https://icons.duckduckgo.com/ip3/holiday-lescala.com.ico",
     "slug": "girasol-es",
-    "status": "down",
+    "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "96.78%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "96.77%",
     "uptimeYear": "99.71%",
     "time": 426,
-    "timeDay": 266,
-    "timeWeek": 374,
-    "timeMonth": 430,
-    "timeYear": 412,
+    "timeDay": 267,
+    "timeWeek": 361,
+    "timeMonth": 425,
+    "timeYear": 411,
     "dailyMinutesDown": {
-      "2024-11-30": 2,
+      "2024-11-30": 6,
       "2024-11-13": 76,
       "2024-11-12": 19,
       "2024-11-07": 1314,
@@ -731,7 +731,7 @@
     "timeMonth": 1255,
     "timeYear": 1048,
     "dailyMinutesDown": {
-      "2024-11-30": 1434,
+      "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
@@ -1232,7 +1232,7 @@
     "timeMonth": 1091,
     "timeYear": 1006,
     "dailyMinutesDown": {
-      "2024-11-30": 1434,
+      "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
@@ -1609,7 +1609,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.02%",
-    "uptimeYear": "73.59%",
+    "uptimeYear": "73.60%",
     "time": 891,
     "timeDay": 932,
     "timeWeek": 965,
@@ -1733,7 +1733,7 @@
     "timeMonth": 990,
     "timeYear": 959,
     "dailyMinutesDown": {
-      "2024-11-30": 1434,
+      "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
@@ -2090,7 +2090,7 @@
     "timeMonth": 1074,
     "timeYear": 1012,
     "dailyMinutesDown": {
-      "2024-11-30": 1435,
+      "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
@@ -2447,7 +2447,7 @@
     "timeMonth": 1054,
     "timeYear": 1010,
     "dailyMinutesDown": {
-      "2024-11-30": 1435,
+      "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
@@ -2804,7 +2804,7 @@
     "timeMonth": 1058,
     "timeYear": 922,
     "dailyMinutesDown": {
-      "2024-11-30": 1435,
+      "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
@@ -3095,7 +3095,7 @@
     "time": 431,
     "timeDay": 379,
     "timeWeek": 425,
-    "timeMonth": 415,
+    "timeMonth": 412,
     "timeYear": 422,
     "dailyMinutesDown": {
       "2024-11-07": 15,
@@ -3118,7 +3118,7 @@
     "time": 434,
     "timeDay": 376,
     "timeWeek": 424,
-    "timeMonth": 446,
+    "timeMonth": 445,
     "timeYear": 426,
     "dailyMinutesDown": {
       "2024-09-05": 19,
@@ -3139,7 +3139,7 @@
     "time": 436,
     "timeDay": 373,
     "timeWeek": 422,
-    "timeMonth": 440,
+    "timeMonth": 438,
     "timeYear": 430,
     "dailyMinutesDown": {
       "2024-09-05": 19
@@ -3159,7 +3159,7 @@
     "time": 459,
     "timeDay": 379,
     "timeWeek": 423,
-    "timeMonth": 441,
+    "timeMonth": 439,
     "timeYear": 474,
     "dailyMinutesDown": {
       "2024-09-05": 18,
@@ -3210,7 +3210,7 @@
     "time": 427,
     "timeDay": 378,
     "timeWeek": 424,
-    "timeMonth": 439,
+    "timeMonth": 437,
     "timeYear": 431,
     "dailyMinutesDown": {
       "2024-09-05": 18
@@ -3230,7 +3230,7 @@
     "time": 425,
     "timeDay": 371,
     "timeWeek": 423,
-    "timeMonth": 440,
+    "timeMonth": 438,
     "timeYear": 429,
     "dailyMinutesDown": {
       "2024-09-05": 17
@@ -3250,7 +3250,7 @@
     "time": 437,
     "timeDay": 373,
     "timeWeek": 423,
-    "timeMonth": 440,
+    "timeMonth": 438,
     "timeYear": 430,
     "dailyMinutesDown": {
       "2024-09-05": 17
@@ -3270,7 +3270,7 @@
     "time": 400,
     "timeDay": 378,
     "timeWeek": 424,
-    "timeMonth": 436,
+    "timeMonth": 434,
     "timeYear": 402,
     "dailyMinutesDown": {
       "2024-09-05": 16
@@ -3290,7 +3290,7 @@
     "time": 345,
     "timeDay": 272,
     "timeWeek": 328,
-    "timeMonth": 354,
+    "timeMonth": 350,
     "timeYear": 341,
     "dailyMinutesDown": {
       "2024-09-05": 16
@@ -3310,7 +3310,7 @@
     "time": 364,
     "timeDay": 347,
     "timeWeek": 338,
-    "timeMonth": 355,
+    "timeMonth": 350,
     "timeYear": 342,
     "dailyMinutesDown": {
       "2024-09-05": 15
@@ -3330,7 +3330,7 @@
     "time": 426,
     "timeDay": 378,
     "timeWeek": 424,
-    "timeMonth": 443,
+    "timeMonth": 441,
     "timeYear": 423,
     "dailyMinutesDown": {}
   },
@@ -3348,7 +3348,7 @@
     "time": 353,
     "timeDay": 269,
     "timeWeek": 313,
-    "timeMonth": 342,
+    "timeMonth": 338,
     "timeYear": 351,
     "dailyMinutesDown": {}
   },
@@ -3366,7 +3366,7 @@
     "time": 341,
     "timeDay": 270,
     "timeWeek": 308,
-    "timeMonth": 341,
+    "timeMonth": 336,
     "timeYear": 339,
     "dailyMinutesDown": {}
   },
@@ -3384,7 +3384,7 @@
     "time": 356,
     "timeDay": 268,
     "timeWeek": 309,
-    "timeMonth": 341,
+    "timeMonth": 336,
     "timeYear": 337,
     "dailyMinutesDown": {}
   },
@@ -3402,7 +3402,7 @@
     "time": 416,
     "timeDay": 374,
     "timeWeek": 421,
-    "timeMonth": 416,
+    "timeMonth": 414,
     "timeYear": 415,
     "dailyMinutesDown": {}
   },
@@ -3420,7 +3420,7 @@
     "time": 333,
     "timeDay": 273,
     "timeWeek": 310,
-    "timeMonth": 315,
+    "timeMonth": 309,
     "timeYear": 319,
     "dailyMinutesDown": {}
   }
