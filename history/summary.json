@@ -1292,7 +1292,7 @@
     "timeMonth": 1096,
     "timeYear": 1064,
     "dailyMinutesDown": {
-      "2025-01-03": 51,
+      "2025-01-03": 62,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
@@ -1767,7 +1767,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/holiday-lescala.com.ico",
     "slug": "ancora-fr",
     "status": "down",
-    "uptime": "12.86%",
+    "uptime": "12.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1778,7 +1778,7 @@
     "timeMonth": 1042,
     "timeYear": 1018,
     "dailyMinutesDown": {
-      "2025-01-03": 52,
+      "2025-01-03": 62,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
@@ -2263,7 +2263,7 @@
     "timeMonth": 1022,
     "timeYear": 1007,
     "dailyMinutesDown": {
-      "2025-01-03": 52,
+      "2025-01-03": 62,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
@@ -2647,7 +2647,7 @@
     "timeMonth": 1071,
     "timeYear": 1063,
     "dailyMinutesDown": {
-      "2025-01-03": 52,
+      "2025-01-03": 62,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
@@ -3031,7 +3031,7 @@
     "timeMonth": 1057,
     "timeYear": 1059,
     "dailyMinutesDown": {
-      "2025-01-03": 52,
+      "2025-01-03": 62,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
@@ -3415,7 +3415,7 @@
     "timeMonth": 1055,
     "timeYear": 979,
     "dailyMinutesDown": {
-      "2025-01-03": 52,
+      "2025-01-03": 62,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
@@ -4099,7 +4099,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/holiday-lescala.com.ico",
     "slug": "le-coq-es",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
